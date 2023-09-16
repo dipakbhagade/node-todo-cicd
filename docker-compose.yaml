@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "trainwithshubham/node-app-test-new:latest"
+    image: "dipak1994/node-todo-cicd-app:latest"
     ports:
       - "8000:8000"
